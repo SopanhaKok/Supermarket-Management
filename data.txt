@@ -1,0 +1,9 @@
+Sorted Code     Sorted Name    
+1               0              
+Product Code    Name            Category        Unit Price      Quantity       
+11111111        Apple           F               2.00            2              
+44444444        Banana          F               5.00            2              
+22222222        Carrot          V               6.00            2              
+55555555        Cucumber        V               2.00            2              
+77777777        Fish            M               35.00           2              
+88888888        Beef            M               12.00           2              
